@@ -43,6 +43,10 @@ body {
     font-size: 18px;
 }
 
+.nav-link {
+    padding: 10px 20px !important;
+}
+
 #home .background {
     background: url(./images/bg.jpg) no-repeat center center;
     background-size: cover;
